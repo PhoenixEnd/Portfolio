@@ -33,7 +33,7 @@ export const siteConfig = {
     {
       name: "Evaluating a Distributed Edge Network for In-Flight Data",
       description:
-            "This project-research work is about investigating the feasibility of a distributed edge computing architecture designed to overcome intermittent connectivity in aviation environments, and developing a decentralized network where cabin crew devices function as mobile edge nodes to preprocess and aggregate data from onboard services during flight. The project make use of Delay Tolerant Networking (DTN) bundle protocols and IEEE 802.11 standards to facilitate efficient data offloading to terrestrial back-end servers upon landing. By conducting a comparative analysis with frameworks like Kubernetes, it develops and validates the system design requirements for low-latency, cost-effective data synchronization and prototype validation under simulated in-flight conditions",
+            "This project-research work is about investigating the feasibility of a distributed edge computing architecture designed to overcome intermittent connectivity in aviation environments, and developing a decentralized network where cabin crew devices function as mobile edge nodes to preprocess and aggregate data from onboard services during flight. The project makes use of Delay Tolerant Networking (DTN) bundle protocols and IEEE 802.11 standards to facilitate efficient data offloading to terrestrial back-end servers upon landing. By conducting a comparative analysis with frameworks like Kubernetes, it develops and validates the system design requirements for low-latency, cost-effective data synchronization and prototype validation under simulated in-flight conditions",
       link: " ",
       skills: ["Distributed Computing Systems", "Communication Networking", "ION-DTN", "IEEE 802.11k/v/r", "NS-3"],
     },
@@ -117,7 +117,7 @@ export const siteConfig = {
     },
     {
       company: "Indian Institute of Science",
-      title: "Visting Researcher",
+      title: "Visiting Researcher",
       dateRange: "Jul 2025 - Present",
       bullets: [
          "Investigating on the model-based system engineering, PID controller of multi-agent systems",
