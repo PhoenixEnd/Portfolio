@@ -110,7 +110,7 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Indian Institute of Science and Technology",
+      company: "Indian Institute of Science",
       title: "Visting Researcher",
       dateRange: "Jul 2025 - Present",
       bullets: [
@@ -120,7 +120,7 @@ export const siteConfig = {
        ],
     },
     {
-      company: "Indian Institute of Science and Technology",
+      company: "Indian Institute of Science",
       title: "Project Research Associate @ Zen Lab",
       dateRange: "Mar 2025 - Jun 2025",
       bullets: [
@@ -134,7 +134,7 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Indian Institute of Science and Technology",
+      company: "Indian Institute of Science",
       title: "Multimedia XR/VR/AR Intern @ CPDM LAB",
       dateRange: "Aug 2024 - Feb 2025",
       bullets: [
@@ -259,7 +259,7 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "Indian Institute of Science and Technology",
+      school: "Indian Institute of Science",
       degree: "Centre for Continuing Education",
       dateRange: "2024",
       achievements: [
